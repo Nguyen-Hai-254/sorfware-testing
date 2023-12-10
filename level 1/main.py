@@ -1,6 +1,5 @@
 import unittest
 from read_data import Read
-# from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
 from parameterized import parameterized
 from steps import ChangProfile, CreateEvent
